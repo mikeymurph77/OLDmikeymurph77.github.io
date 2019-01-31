@@ -104,14 +104,14 @@ header:
 # Your biography and your job is editable in each languages files in `languages` folder
 author:
     email: mikeymurph77@gmail.com
-    location:
+    location: Boston, MA
     # Your profile picture located in folder `source/_images/` (development)
     # or in `source/assets/images/` (production)
     # or you can use an external url
     # Overwritten by your gravatar image if `gravatar_email` is filled
     picture:
     # Your Twitter username without the @. E.g : `tranquilpeak`
-    twitter:
+    twitter: mikeymurph77
     # Your personal google plus profile id, not your blog or business page id.
     # E.g : `+JohnDoe` or `123812884128439`
     google_plus:
@@ -173,7 +173,7 @@ tag_pagination: true
 # ---------------
 
 # Your Disqus shortname
-disqus_shortname:
+disqus_shortname: mikeymurph77-github-io
 # Your Gitment information
 # Read https://github.com/imsun/gitment#get-started to setup Gitment
 gitment:
@@ -232,9 +232,9 @@ sharing_options:
     twitter:
         icon: "fab fa-twitter"
         url: "https://twitter.com/intent/tweet?text={{post.permalink}}"
-    google_plus:
-        icon: "fab fa-google-plus"
-        url: "https://plus.google.com/share?url={{post.permalink}}"
+    # google_plus:
+    #     icon: "fab fa-google-plus"
+    #     url: "https://plus.google.com/share?url={{post.permalink}}"
     # Asian social networks
 #    weibo:
 #        title: "Weibo"

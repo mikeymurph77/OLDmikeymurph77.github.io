@@ -11,6 +11,8 @@
     
     
     
+        <link rel="alternate" type="application/atom+xml" title="RSS" href="/atom.xml">
+    
     <script type="application/ld+json">{"@context":"http://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Mike Murphy","sameAs":["https://github.com/mikeymurph77","https://stackoverflow.com/users/3704250/mikeymurph77","https://twitter.com/mikeymurph77","https://www.linkedin.com/in/michaelmmurphy/","mailto:mikeymurph77@gmail.com"],"image":"https://www.gravatar.com/avatar/8c27ce0a109e55da3c741b34781d03f6"},"articleBody":"Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub.\nQuick StartCreate a new post1$ hexo new \"My New Post\"\nMore info: Writing\nRun server1$ hexo server\nMore info: Server\nGenerate static files1$ hexo generate\nMore info: Generating\nDeploy to remote sites1$ hexo deploy\nMore info: Deployment\n","dateCreated":"2019-01-27T18:33:35-05:00","dateModified":"2019-01-27T18:33:35-05:00","datePublished":"2019-01-27T18:33:35-05:00","description":"","headline":"Hello World","image":[],"mainEntityOfPage":{"@type":"WebPage","@id":"https://www.mikeymurph.com/hello-world/"},"publisher":{"@type":"Organization","name":"Mike Murphy","sameAs":["https://github.com/mikeymurph77","https://stackoverflow.com/users/3704250/mikeymurph77","https://twitter.com/mikeymurph77","https://www.linkedin.com/in/michaelmmurphy/","mailto:mikeymurph77@gmail.com"],"image":"https://www.gravatar.com/avatar/8c27ce0a109e55da3c741b34781d03f6","logo":{"@type":"ImageObject","url":"https://www.gravatar.com/avatar/8c27ce0a109e55da3c741b34781d03f6"}},"url":"https://www.mikeymurph.com/hello-world/"}</script>
     <meta name="description" content="Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick">
 <meta property="og:type" content="blog">
@@ -23,6 +25,7 @@
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Hello World">
 <meta name="twitter:description" content="Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick">
+<meta name="twitter:creator" content="@mikeymurph77">
     
     
         
@@ -292,15 +295,13 @@
                 </a>
             </li>
         
-            
-            
-            <li class="post-action hide-xs">
-                <a class="post-action-btn btn btn--default" target="new" href="https://plus.google.com/share?url=https://www.mikeymurph.com/hello-world/" title="Share on Google+">
-                    <i class="fab fa-google-plus" aria-hidden="true"></i>
-                </a>
-            </li>
         
-        
+            
+                <li class="post-action">
+                    <a class="post-action-btn btn btn--default" href="#disqus_thread">
+                        <i class="fa fa-comment"></i>
+                    </a>
+                </li>
             
         
         <li class="post-action">
@@ -316,6 +317,10 @@
 
         
         
+            
+                <div id="disqus_thread">
+    <noscript>Please enable JavaScript to view the <a href="//disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</div>
             
         
     </div>
@@ -376,15 +381,13 @@
                 </a>
             </li>
         
-            
-            
-            <li class="post-action hide-xs">
-                <a class="post-action-btn btn btn--default" target="new" href="https://plus.google.com/share?url=https://www.mikeymurph.com/hello-world/" title="Share on Google+">
-                    <i class="fab fa-google-plus" aria-hidden="true"></i>
-                </a>
-            </li>
         
-        
+            
+                <li class="post-action">
+                    <a class="post-action-btn btn btn--default" href="#disqus_thread">
+                        <i class="fa fa-comment"></i>
+                    </a>
+                </li>
             
         
         <li class="post-action">
@@ -417,14 +420,6 @@
                 <li class="share-option">
                     <a class="share-option-btn" target="new" href="https://twitter.com/intent/tweet?text=https://www.mikeymurph.com/hello-world/">
                         <i class="fab fa-twitter" aria-hidden="true"></i><span>Share on Twitter</span>
-                    </a>
-                </li>
-            
-                
-                
-                <li class="share-option">
-                    <a class="share-option-btn" target="new" href="https://plus.google.com/share?url=https://www.mikeymurph.com/hello-world/">
-                        <i class="fab fa-google-plus" aria-hidden="true"></i><span>Share on Google+</span>
                     </a>
                 </li>
             
@@ -461,6 +456,12 @@
             </div>
         
         
+            <div id="about-card-location">
+                <i class="fa fa-map-marker-alt"></i>
+                <br>
+                Boston, MA
+            </div>
+        
     </div>
 </div>
 
@@ -471,6 +472,23 @@
 <script src="/assets/js/script-dbd16rvloemmuxdzniplmnxxvwoz24eya9wol0b7vvmlokgqsjivmb8dnscy.min.js"></script>
 <!--SCRIPTS END-->
 
+    
+        <script>
+             var disqus_config = function () {
+                 this.page.url = 'https://www.mikeymurph.com/hello-world/';
+                 
+                    this.page.identifier = 'hello-world/';
+                 
+             };
+            (function() {
+                var d = document, s = d.createElement('script');
+                var disqus_shortname = 'mikeymurph77-github-io';
+                s.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+
+                s.setAttribute('data-timestamp', +new Date());
+                (d.head || d.body).appendChild(s);
+            })();
+        </script>
     
 
 
