@@ -3,19 +3,19 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: Mike Murphy
 subtitle:
 description:
 keywords:
-author: John Doe
-language:
+author: Mike Murphy
+language: en
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://mikeymurph77.github.io/
+url: https://www.mikeymurph.com/
 root: /
-permalink: :year/:month/:day/:title/
+permalink: :title/
 permalink_defaults:
 
 # Directory
