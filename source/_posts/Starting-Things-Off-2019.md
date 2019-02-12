@@ -24,11 +24,11 @@ These technologies are battle tested and not going anywhere anytime soon. So it'
 
 ## Grow your brain!
 
-My father would always tell us to "Have fun and grow your brain!" before we went to school each day. I always thought this was a bit corny, but it was a good reminder that learning can be fun if you have the right perspective.
+Before heading off for school every day, my father would always tell us to "Have fun and grow your brain!". I always thought this was a bit corny, but it was a good reminder that learning can be fun if you have the right perspective.
 
 As I got older that message slipped and learning became a chore.
 
-I'm starting 2019 with this message fresh in mind. I have a lot to learn, and yes some of these topics are as dry as Spongebob when he entered Sandy's bio-dome without water. If I have the right perspective, and can apply what I learn at work or side projects, then learning will feel less like a chore and become more of a game.
+I'm starting 2019 with this message fresh in mind. I have a lot to learn, and yes some of these topics are as dry as Spongebob when he entered Sandy's bio-dome without water. If I have the right perspective, and can apply what I learn at work or on side projects, then learning will feel less like a chore and become more of a game.
 
 ## I ~~HATE~~ like reading.
 
@@ -42,7 +42,7 @@ Have any suggestions, let me know in the comments!
 
 ## Build Build Build!!!
 
-As mentioned, this post is a month and a half late. I've been focusing my time building things, and not just writing about what I'm panning on building.
+As mentioned, this post is a month and a half late. I've been focusing my time building things, and not just writing about what I'm planning on building.
 
 I built a monthly reminder app called [Resolution Tracker](https://www.resolutiontracker.xyz/) that helps keep you honest with your New Years Resolutions.
 
@@ -60,7 +60,7 @@ Some posts may be quick posts where I learned something that I find useful. Othe
 
 ## Wrapping up
 
-So if you read this post I thank you. But this was more of a personal post to myself, where I can look back and assess a year from now.
+So if you read this post, I thank you. But this was more of a personal post to myself, where I can look back and assess a year from now.
 
 So Mike (speaking to myself), do these things and do them well:
 
